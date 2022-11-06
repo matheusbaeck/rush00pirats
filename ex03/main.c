@@ -6,12 +6,12 @@
 /*   By: mamagalh@student.42madrid.com <mamagalh    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/06 16:03:29 by mamagalh@st       #+#    #+#             */
-/*   Updated: 2022/11/06 16:08:39 by mamagalh@st      ###   ########.fr       */
+/*   Updated: 2022/11/06 18:26:45 by mamagalh@st      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 int	main(void)
 {
-	rush(5, 10);
+	rush03(5, 10);
 	return (0);
 }
